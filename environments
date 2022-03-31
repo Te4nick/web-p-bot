@@ -1,0 +1,7 @@
+﻿PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+telegram_token="903165909:AAHw3bUY8M_p-Crlt0G7YAIAjZ2EqZTj_y0"
+telegram_token_information_message="903165909:AAHw3bUY8M_p-Crlt0G7YAIAjZ2EqZTj_y0"
+chat_id_information_message=189256165
+vk_community_token="d04586c344fea427ad8c56fae65cd757a633b6060c65b4c5bc8f68f06581e99a6a390458ebf68228898d9"
+project_id="newagent-jwuwho"
+GOOGLE_APPLICATION_CREDENTIALS="/mnt/c/Users/Lakhin/bot/json.json"
